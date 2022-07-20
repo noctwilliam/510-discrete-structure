@@ -117,8 +117,8 @@ const ship = [
 	{
 		country: "english",
 		leave: 9,
-		carries: "tea",
-		chimney_color: "blue",
+		carries: "rice",
+		chimney_color: "white",
 		destination: "marseille",
 	},
 	{
